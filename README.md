@@ -1,3 +1,4 @@
+![](https://github.com/carla-allende/carla-allende/blob/main/AmazingDazzlingFrog-max-1mb.gif)
 <h1 align="center">🤓Hi folks! my name is Carla Allende and i'm a Data Analyst ✨🐙</h1>
 <h3 align="center">About me:🌞</h3>
 
