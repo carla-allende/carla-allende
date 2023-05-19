@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">🌸✨Hi! i'm Carli ✨🌸</h1>
-<h2 align="center">👾Data Scientist👾</h2>
+<h2 align="center">  👾Data Scientist👾</h2>
+
 
 - 🤖 I’m currently learning **Machine Learning, Big Data W/Hadoop & Spark, Docker Engine, etc...**
 
